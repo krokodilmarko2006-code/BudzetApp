@@ -41,7 +41,7 @@ if "username" not in st.session_state:
 if "user_id" not in st.session_state:
     st.session_state.user_id = None
 
-st.title("Personal finance and budget management app")
+st.title("Budzet Aplikacija by Marko")
 
 menu = ["Login", "Register"] if not st.session_state.logged_in else ["Dashboard", "Troskovi", "Prihodi", "Logout"]
 choice = st.sidebar.selectbox("Menu", menu)
