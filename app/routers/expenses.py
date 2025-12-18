@@ -94,7 +94,6 @@ def add_income(income: IncomeCreate):
 def get_incomes(user_id: int):
     conn = get_connection()
     cursor = conn.cursor()
-
     cursor.execute("SELECT * FROM incomes WHERE user_id = ?", (user_id,))
     rows = cursor.fetchall()
 
