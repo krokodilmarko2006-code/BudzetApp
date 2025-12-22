@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="240db2b1-3970-4fc3-a759-64ae13a46255" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routers/expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/expenses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/database/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/database/db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_frontend.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_frontend.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expense_tracker.db" beforeDir="false" afterPath="$PROJECT_DIR$/expense_tracker.db" afterDir="false" />
     </list>
@@ -36,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
